@@ -44,7 +44,7 @@ Domain Category: Computer Vision and IOT
 
 Objective : Implement an image color detector which identifies all the colors in an image or video.
 
-**Task 5- Object Detection / Optical Character Recognition (ORC)
+**Task 5- Object Detection / Optical Character Recognition (ORC)**
 
 
 ● Implement an object detector which identifies the classes of the objects in
