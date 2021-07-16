@@ -1,6 +1,7 @@
 # TSF-Data-Science-and-Business-Analytics
 This repository has been made as a part of my Data Science and Business Analytics Internship with The Sparks Foundation
-Task #1- Prediction using Supervised ML
+
+**Task #1- Prediction using Supervised ML**
 
 -Predict the percentage of marks of an student based on the number of study hours
 
@@ -12,14 +13,14 @@ Task #1- Prediction using Supervised ML
 
 -Dataset : http://bit.ly/w-data
 
-Task #2- Prediction using Unsupervised ML
+**Task #2- Prediction using Unsupervised ML**
 
 -From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 -Use R or Python or perform this task
 
 -Dataset : https://bit.ly/3kXTdox
-Task 3- Exploratory Data Analysis- Sports
+**Task 3- Exploratory Data Analysis- Sports**
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 
@@ -37,10 +38,18 @@ contributing win or loss of a team.
 explaining the charts and interpretations. Use annotations, animation and
 images.
 
-TAsk 4- 
-
-Color-Identification-In-Images
+**TAsk 4- Color-Identification-In-Images**
 
 Domain Category: Computer Vision and IOT
 
 Objective : Implement an image color detector which identifies all the colors in an image or video.
+
+**Task 5- Object Detection / Optical Character Recognition (ORC)
+
+
+● Implement an object detector which identifies the classes of the objects in
+an image or video. OR
+● Character detector which extracts printed or handwritten text from an
+image or video.
+● Below resources are just for references you can use any library/approach
+to achieve the goal.
